@@ -1,4 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Choosed technology
+React.js - popular JS library for SPA
+Redux - state manager
+Semantic UI - for UI 
 
 ## Available Scripts
 
